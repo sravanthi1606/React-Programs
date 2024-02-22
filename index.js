@@ -18,9 +18,9 @@ root.render(
   <Navbar/>
     <Routes>
       <Route path='/home' element={<Home/>}></Route>
-      <Route path='/' element={<About/>}></Route>
+      <Route path='/about' element={<About/>}></Route>
       <Route path='/contact' element={<Contact/>}></Route>
-      <Route path='/login' element={<Login/>}></Route>
+      <Route path='/' element={<Login/>}></Route>
       <Route path='/sign' element={<SingIn/>}></Route>
       <Route path='*' element={<NoPage/>}></Route>
     </Routes>
