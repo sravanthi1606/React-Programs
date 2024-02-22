@@ -21,7 +21,7 @@ const Login=()=>{
         }
         else
         {
-            navigate("/",{state :{email:emailText}});
+            navigate("/home",{state :{email:emailText}});
         }
     }
 
