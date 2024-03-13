@@ -20,6 +20,7 @@ const Projects = () => {
                                     <li>Utilized React Router for efficient navigation and routing within the application.</li>
                                     <li>For this project , “Vs Code” is used. </li>
                                     <li>Technologies used : HTML,CSS,Bootstra.Javascript,React Js and Redux.</li>
+                                    <li>GITHUB:https://github.com/sravanthi1606/React-Programs/tree/portfolio</li>
                                 </ul>
                             </div>
                         </Col>
