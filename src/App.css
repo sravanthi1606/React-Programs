@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* overflow: hidden; */
 }
 
 .items {
@@ -138,6 +137,9 @@
 .project_3 {
   margin: 30px 0px;
 }
+.project_2 {
+  margin: 30px 0px;
+}
 
 #contact {
   background-color: black;
@@ -189,12 +191,7 @@
     padding: 50px 0px;
     height: 100%;
   }
-  .project_2 {
-    margin: 30px 0px;
-  }
-  .project_3 {
-    margin: 50px 0px;
-  }
+
 }
 
 @media screen and (max-width:768px) {
@@ -228,13 +225,16 @@
     padding: 80px 0px;
     height: 100%;
   }
-
-  .project_2 {
+  .project_1{
     margin: 30px 0px;
   }
 
-  .project_3 {
+  .project_2 {
     margin: 60px 0px;
+  }
+
+  .project_3 {
+    margin: 70px 0px;
   }
 
   .social_Links {
